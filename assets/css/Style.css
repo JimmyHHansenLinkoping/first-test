@@ -1,0 +1,69 @@
+body{background-color: black;}
+ol{border: 5px solid #520202}
+
+
+
+
+h1 { color: white; 
+     text-align:center; 
+     font-family: "Impact"; 
+     text-decoration: underline; }
+
+h2 { color: white; 
+     text-align:center;
+     font-family: "Franklin Gothic Medium"; 
+     text-decoration: }
+
+h3 { color: white; 
+     text-align:center; 
+     font-family: "Franklin Gothic Medium";
+     text-decoration:  }
+
+p  { color:white; 
+     text-align:center; 
+     font-family: "Segoe Script"; 
+     text-decoration:  }
+
+/* custom styling */
+
+/* Anime image-description listsings 'al-' */
+#AnimeListing{
+	 border: 5px solid white;
+}
+
+#TectList{
+	 border: 5px solid white;
+}
+
+#TectList .al-desc-container{
+	background: black;
+}
+
+.anime-listing{
+     display: flex;
+     background: black;
+     padding: 10px;
+}
+
+.al-image-container{
+     background:  black;
+}
+
+.al-image-container img{
+     width: 200px;	
+}
+.al-image-container p.al-image-title{
+	text-align:center;
+}
+.al-image-container p.al-image-title a{
+    color: white;
+
+}
+.al-desc-container{
+     background: black;
+     height: 100px;
+
+
+}
+
+
